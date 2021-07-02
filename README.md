@@ -1,8 +1,7 @@
-# Olá, David aqui ✌️
-Tudo bem com você?
+# Olá, 
 
-Eu sou Licenciado em Informática pelo Instituto Federal do Amapá, ou seja, sou um professor de assuntos infinitos. Lecionei por alguns anos nas cidades de São José e Florianópolis - Santa Catarina, até que em 2020 resolvi focar a carreira na tecnologia. Agora faço parte do time de Web Designers da [HSystem](https://www.hsystem.com.br/), uma empresa de tecnologia com soluções para empreendimentos hoteleiros.
+###David aqui ✌️
 
-_Os assuntos, principalmente para aprender, continuam infinitos._
+Sou Licenciado em Informática pelo Instituto Federal do Amapá, fui professor em São José e Florianópolis, SC entre 2017 e 2018 quando decidi focar a carreira para o desenvolvimento. Agora faço parte do time de Devs da [HSystem](https://www.hsystem.com.br/).
 
 _[@dcpds](https://www.instagram.com/_dcpds/)_
