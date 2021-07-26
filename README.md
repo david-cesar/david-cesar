@@ -1,7 +1,6 @@
-# Olá, 
+# Olá, David aqui ✌️
 
-### David aqui ✌️
+Sou formado em Licenciatura em Informática e atuei como professor em São José e Florianópolis (Santa Catarina) em 2017 e 2018.
+Desde 2019 mergulhado no mundo do desenvolvimento. Agora faço parte do time da [HSystem](https://www.hsystem.com.br/).
 
-Sou Licenciado em Informática pelo Instituto Federal do Amapá, fui professor em São José e Florianópolis, SC entre 2017 e 2018 quando decidi focar a carreira para o desenvolvimento. Agora faço parte do time de Devs da [HSystem](https://www.hsystem.com.br/).
-
-_[@dcpds](https://www.instagram.com/_dcpds/)_
+_[@__davidcesar__](https://www.instagram.com/_davidcesar__/)_
